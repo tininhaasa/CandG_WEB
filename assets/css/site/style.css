@@ -1,0 +1,45 @@
+textarea {
+    resize: none !important;
+    height: 120px;
+}
+.bs-searchbox .form-control {
+    background-color: #eaeaea;
+    border-radius: 10px;
+}
+* {
+    box-sizing: border-box;
+    font-family: 'montserrat';
+    margin: 0;
+}
+
+/* width */
+*::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+*::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/* Handle */
+*::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+/* Handle on hover */
+*::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+:focus-visible {
+    outline: -webkit-focus-ring-color none 1px;
+}
+
+*::-webkit-input-placeholder {
+    font-size: 12px;
+}
+body{
+    background-color: #f1f1f1;
+    background-image: url(../../img/fundo.png);
+}

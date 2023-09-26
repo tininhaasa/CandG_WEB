@@ -1,0 +1,46 @@
+.image-div{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.image-frame{
+    height: 100px;
+    width: 100px;
+    position: relative;
+}
+
+.image-edit{
+    height: 100px;
+    width: 100px;
+    background-image: url(../../img/icons/foto1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80%;
+    background-color: #0000008e;
+    border-radius: 15px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+.image-edit:hover{
+    background-color: #0000003f;
+}
+
+.image-trophy{
+    height: 100px;
+    width: 100px;
+    top: 0;
+    left: 0;
+    border-radius: 15px;
+    position: absolute;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #0000008e;
+}
+
+.image-edit .image-trophy{
+    height: 100%;
+    width: 100%;
+}

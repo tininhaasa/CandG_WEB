@@ -1,0 +1,35 @@
+
+table label{
+    margin: 0;
+}
+td.select,
+th.select{
+    text-align: center!important;
+    margin-right: 30px;
+}
+ th{
+    font-size: 14px;
+}
+tr{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #cbcbcb;
+}
+.prop-table td.label{
+    padding-left: 80px;
+}
+
+select {
+    padding: 8px 15px;
+    border-radius: 10px;
+    border: 0;
+    box-shadow: 0 0 15px #bbb;
+}
+
+@media only screen and (max-width: 776px){
+    .prop-table td.label{
+        padding-left: 40px;
+    }
+    
+}

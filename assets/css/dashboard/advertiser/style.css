@@ -1,0 +1,27 @@
+.advertiser-page#advertiser-content td .badge, .financial#financial-content td .badge{
+    padding: 10px 15px;
+    font-size: 14px;
+}
+
+.advertiser-page#advertiser-content thead button.order{
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+}
+
+.advertiser-page#advertiser-content thead th i{
+    display: none;
+}
+
+.advertiser-page#advertiser-content .card-body{
+    position: relative;
+    padding-bottom: 50px;
+}
+
+.advertiser-page#advertiser-content .nav-pages{
+    position: absolute;
+    /* background-color: antiquewhite; */
+    width: 100%;
+    bottom: 9px;
+    left: 0;
+}
