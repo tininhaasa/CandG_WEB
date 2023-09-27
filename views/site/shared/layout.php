@@ -42,9 +42,10 @@
 		<nav class="navbar bg-dark">
 			<div class="row w-100">
 				<div class="col-6 d-flex justify-content-start align-items-center"><p class="text-light">Castings and Grandaxes © Todos os direitos reservados</p></div>
-				<div class="col-6 d-flex justify-content-center align-items-end flex-column ">
-					<a href="<?= $url ?>/termos">Politica de Privacidade</a>
-					<a href="<?= $url ?>/conduta">Código de Conduta</a>
+				<div class="col-6 d-flex justify-content-end align-items-center flex-row ">
+					<a class="mr-2 link-underline link-underline-opacity-0 link-light" href="<?= $url ?>/termos">Politica de Privacidade</a>
+					<a  class="mr-2 link-underline link-underline-opacity-0 link-light"  href="<?= $url ?>/conduta">Código de Conduta</a>
+					<a  class="mr-1 link-underline link-underline-opacity-0 link-light"  href="<?= $url ?>/segurança">Política de segurança</a>
 				</div>
 			</div>
 		</nav>
