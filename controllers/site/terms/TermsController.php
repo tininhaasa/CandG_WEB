@@ -39,4 +39,19 @@ class TermsController extends Controller
         $this->view('site/terms/condut.php', array(
         ));
     }
+    public function security()
+    {
+
+        $this->setLayout(
+            'site/shared/layout.php',
+            'Termos de Uso - C&G',
+            array(
+                'assets/libs/fontawesome-6.0/css/all.min.css',
+                'assets/css/site/terms/style.css'
+            ),
+            array()
+        );
+        $this->view('site/terms/privacy.php', array(
+        ));
+    }
 }

@@ -45,7 +45,7 @@
 				<div class="col-6 d-flex justify-content-end align-items-center flex-row ">
 					<a class="mr-2 link-underline link-underline-opacity-0 link-light" href="<?= $url ?>/termos">Politica de Privacidade</a>
 					<a  class="mr-2 link-underline link-underline-opacity-0 link-light"  href="<?= $url ?>/conduta">Código de Conduta</a>
-					<a  class="mr-1 link-underline link-underline-opacity-0 link-light"  href="<?= $url ?>/segurança">Política de segurança</a>
+					<a  class="mr-1 link-underline link-underline-opacity-0 link-light"  href="<?= $url ?>/seguranca">Política de segurança</a>
 				</div>
 			</div>
 		</nav>

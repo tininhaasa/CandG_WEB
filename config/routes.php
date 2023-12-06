@@ -13,6 +13,7 @@ $commonRoutes = array(
 	'/'               			 		=> 'HomeController/index',
 	'termos'						=> 'TermsController/index',
 	'conduta'						=> 'TermsController/condut',
+	'seguranca'						=> 'TermsController/security',
 );
 
 // rotas POST

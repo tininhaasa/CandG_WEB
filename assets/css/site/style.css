@@ -43,3 +43,19 @@ body{
     background-color: #f1f1f1;
     background-image: url(../../img/fundo.png);
 }
+
+ol {
+    counter-reset: item;
+    list-style: none;
+}
+li {
+    display: block;
+    counter-increment: item;
+    margin-bottom: 0.5em;
+}
+li:before {
+    content: counters(item, ".") ". ";
+    /* display: inline-block; */
+    width: 1em;
+    margin-left: -1.5em;
+}
