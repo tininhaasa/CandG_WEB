@@ -1,6 +1,350 @@
 <div class="terms container" id="terms-content">
     <h1 class="text-center my-5"><strong>POLÍTICA GERAL DE SEGURANÇA DA INFORMAÇÃO</strong></h1>
 
+    <ol>
+        <li>
+            1. Introdução
+            <ol>
+                <li>
+                    A C&G RPG tem como missão deixar a experiencia do rpg de mesa mais dinamica e divertida, possibilitando o uso de todas as ferramentas e interações necessárias para um mestre diretamente em seu celular ou computador.
+
+                </li>
+                <li>
+                    A C&G RPG entende que a informação corporativa é um bem essencial para suas atividades e para resguardar a qualidade e garantia dos produtos ofertados a seus usuários.
+
+                </li>
+                <li>
+                    A C&G RPG compreende que a manipulação de sua informação passa por diferentes meios de suporte, armazenamento e comunicação, sendo estes vulneráveis a fatores externos e internos que podem comprometer a segurança das informações corporativas.
+
+                </li>
+                <li>
+                    Dessa forma, a C&G RPG estabelece sua Política Geral de Segurança da Informação, como parte integrante do seu sistema de gestão corporativo, alinhada as boas práticas e normas internacionalmente aceitas, com o objetivo de garantir níveis adequados de proteção a informações da organização ou sob sua responsabilidade.
+                </li>
+            </ol>
+        </li>
+        <li>
+            2. Propósito
+            <ol>
+                <li>
+                    Esta política tem por proposito estabelecer diretrizes e normas de Segurança da Informação que permitam aos colaboradores da C&G RPG adotar padrões de comportamento seguro, adequados às metas e necessidades da C&G RPG;
+
+                </li>
+                <li>
+                    Orientar quanto à adoção de controles e processos para atendimento dos requisitos para Segurança da Informação;
+
+                </li>
+                <li>
+                    Resguardar as informações da C&G RPG, garantindo requisitos básicos de confidencialidade, integridade e disponibilidade;
+
+                </li>
+                <li>
+                    Prevenir possíveis causas de incidentes e responsabilidade legal da instituição e seus empregados, usuários e parceiros;
+
+                </li>
+                <li>
+                    Minimizar os riscos de perdas financeiras, de participação no mercado, da confiança de usuários ou de qualquer outro impacto negativo no negócio da C&G RPG como resultado de falhas de segurança.
+                </li>
+            </ol>
+        </li>
+        <li>
+            Escopo
+            <ol>
+                <li>
+                    Esta política se aplica a todos os usuários da informação da C&G RPG, incluindo qualquer indivíduo ou organização que possui ou possuiu vinculo com a C&G RPG, tais como empregados, ex-empregados, prestadores de serviço, ex-prestadores de serviço, colaboradores, ex-colaboradores, que possuíram, possuem ou virão a possuir acesso às informações da C&G RPG e/ou fizeram, fazem ou farão uso de recursos computacionais compreendidos na infraestrutura C&G RPG.
+                </li>
+            </ol>
+
+        </li>
+        <li>
+            Diretrizes
+            <ol>
+                <li>
+                    O objetivo da gestão de Segurança da Informação da C&G RPG é garantir a gestão sistemática e efetiva de todos os aspectos relacionados à segurança da informação, provendo suporte as operações críticas do negócio e minimizando riscos identificados e seus eventuais impactos a instituição.
+
+                </li>
+                <li>
+                    A Presidência, Diretoria Executiva e o Comitê Gestor de Segurança da Informação estão comprometidos com uma gestão efetiva de Segurança da Informação na C&G RPG. Desta forma, adotam todas medidas cabíveis para garantir que esta política seja adequadamente comunicada, entendida e seguida em todos os níveis da organização. Revisões periódicas serão realizadas para garantir sua contínua pertinência e adequação as necessidades da C&G RPG.
+
+                </li>
+                <li>
+                    É política da C&G RPG:
+                    <ol>
+                        <li>
+                            Elaborar, implantar e seguir por completo políticas, normas e procedimentos de segurança da informação, garantindo que os requisitos básicos de confidencialidade, integridade e disponibilidade da informação da C&G RPG sejam atingidos através da adoção de controles contra ameaças provenientes de fontes tanto externas quanto internas;
+
+                        </li>
+                        <li>
+                            Disponibilizar políticas, normas e procedimentos de segurança a todas as partes interessadas e autorizadas, tais como: Empregados, terceiros contratados e, onde pertinente, usuários.
+
+                        </li>
+                        <li>
+                            Garantir a educação e conscientização sobre as práticas adotadas pela C&G RPG de segurança da informação para Empregados, terceiros contratados e, onde pertinente, usuários.
+
+                        </li>
+                        <li>
+                            Atender integralmente requisitos de segurança da informação aplicáveis ou exigidos por regulamentações, leis e/ou cláusulas contratuais;
+
+                        </li>
+                        <li>
+                            Tratar integralmente incidentes de segurança da informação, garantindo que os mesmos sejam adequadamente registrados, classificados, investigados, corrigidos, documentados e , quando necessário, comunicando as autoridades apropriadas;
+
+                        </li>
+                        <li>
+                            Garantir a continuidade do negócio através da adoção, implantação, teste e melhoria contínua de planos de continuidade e recuperação de desastres;
+
+                        </li>
+                        <li>
+                            Melhorar continuamente a Gestão de Segurança da Informação através da definição e revisão sistemática de objetivos de segurança em todos os níveis da organização.
+                        </li>
+                    </ol>
+                </li>
+
+            </ol>
+             
+        </li>
+        <li>
+            Papéis e Responsabilidades
+            <ol>
+                <li>
+                    COMITÊ GESTOR DE SEGURANÇA DA INFORMAÇÃO - CGSI
+                    <ol>
+                        <li>
+                            Fica constituído o COMITÊ GESTOR DE SEGURANÇA DA INFORMAÇÃO, contando com a participação de, pelo menos, um representante da diretoria e um membro sênior das seguintes áreas: Tecnologia da Informação, Segurança da Informação, Recursos Humanos, Jurídico, Comunicação.
+
+                        </li>
+                        <li>
+                            É responsabilidade do CGSI:
+                            <ol>
+                                <li>
+                                    Analisar, revisar e propor a aprovação de políticas e normas relacionadas à segurança da informação;
+
+                                </li>
+                                <li>
+                                    Garantir a disponibilidade dos recursos necessários para uma efetiva Gestão de Segurança da Informação;
+
+                                </li>
+                                <li>
+                                    Garantir que as atividades de segurança da informação sejam executadas em conformidade com a PGSI;
+
+                                </li>
+                                <li>
+                                    Promover a divulgação da PGSI e tomar as ações necessárias para disseminar uma cultura de segurança da informação no ambiente da C&G RPG.
+                                </li>
+                            </ol>
+                        </li>
+                    </ol>
+                </li>
+                <li>
+                    GERÊNCIA DE SEGURANÇA DA INFORMAÇÃO
+                    <ol>
+                        <li>
+                            É responsabilidade da Gerência de Segurança da Informação:
+                            <ol>
+                                <li>
+                                    Conduzir a Gestão e Operação da segurança da informação, tendo como base esta política e demais resoluções do CGSI;
+
+                                </li>
+                                <li>
+                                    Apoiar o CGSI em suas deliberações;
+
+                                </li>
+                                <li>
+                                    Elaborar e propor ao CGSI as normas e procedimentos de segurança da informação, necessários para se fazer cumprir a PGSI;
+
+                                </li>
+                                <li>
+                                    Identificar e avaliar as principais ameaças à segurança da informação, bem como propor e, quando aprovado, implantar medidas corretivas para reduzir o risco;
+
+                                </li>
+                                <li>
+                                    Tomar as ações cabíveis para se fazer cumprir os termos desta política;
+
+                                </li>
+                                <li>
+                                    Realizar a gestão dos incidentes de segurança da informação, garantindo tratamento adequado.
+                                </li>
+                            </ol>
+                        </li>
+                    </ol>
+                     
+                </li>
+                <li>
+                    GESTORES DA INFORMAÇÃO
+                    <ol>
+                        <li>
+                            É responsabilidade dos Gestores da Informação:
+                            <ol>
+                                <li>
+                                    Gerenciar as informações geradas ou sob a responsabilidade da sua área de negócio durante todo o seu ciclo de vida, incluindo a criação, manuseio e descarte conforme as normas estabelecidas pela C&G RPG;
+
+                                </li>
+                                <li>
+                                    Identificar, classificar e rotular as informações geradas ou sob a responsabilidade da sua área de negócio conforme normas, critérios e procedimentos adotados pela C&G RPG;
+
+                                </li>
+                                <li>
+                                    Periodicamente revisar as informações geradas ou sob a responsabilidade da sua área de negócio, ajustando a classificação e rotulagem das mesmas conforme necessário;
+
+                                </li>
+                                <li>
+                                    Autorizar e revisar os acessos à informação e sistemas de informação sob sua responsabilidade;
+
+                                </li>
+                                <li>
+                                    Solicitar a concessão ou revogação de acesso à informação ou sistemas de informação de acordo com os procedimentos adotados pela C&G RPG.
+                                </li>
+                            </ol>
+                        </li>
+                    </ol>
+                </li>
+                <li>
+                    USUÁRIOS DA INFORMAÇÃO
+                    <ol>
+                        <li>
+                            É responsabilidade dos Usuários da Informação:
+                            <ol>
+                                <li>
+                                    Ler, compreender e cumprir integralmente os termos da Política Geral de Segurança da Informação, bem como as demais normas e procedimentos de segurança aplicáveis;
+
+                                </li>
+                                <li>
+                                    Encaminhar quaisquer dúvidas e/ou pedidos de esclarecimento sobre a Política Geral de Segurança da Informação, suas normas e procedimentos a Gerência de Segurança da Informação ou, quando pertinente, ao Comitê Gestor de Segurança da Informação;
+
+                                </li>
+                                <li>
+                                    Comunicar à Gerência de Segurança da Informação qualquer evento que viole esta Política ou coloque/possa vir a colocar em risco a segurança das informações ou dos recursos computacionais da C&G RPG;
+
+                                </li>
+                                <li>
+                                    Assinar o Termo de Uso de Sistemas de Informação da C&G RPG, formalizando a ciência e o aceite integral das disposições da Política Geral de Segurança da Informação, bem como as demais normas e procedimentos de segurança, assumindo responsabilidade pelo seu cumprimento;
+
+                                </li>
+                                <li>
+                                    Responder pela inobservância da Política Geral de Segurança da Informação, normas e procedimentos de segurança, conforme definido no item sanções e punições.
+                                </li>
+                            </ol>
+                        </li>
+                    </ol>
+                </li>
+            </ol>
+        </li>
+        <li>
+            Sanções e Punições
+            <ol>
+                <li>
+                    As violações, mesmo que por mera omissão ou tentativa não consumada, desta política, bem como demais normas e procedimentos de segurança, serão passíveis de penalidades que incluem advertência verbal, advertência por escrito, suspensão não remunerada e a demissão por justa causa;
+
+                </li>
+                <li>
+                    A aplicação de sanções e punições será realizada conforme a análise do Comitê Gestor de Segurança da Informação, devendo-se considerar a gravidade da infração, efeito alcançado, recorrência e as hipóteses previstas no artigo 482 da Consolidação das Leis do Trabalho, podendo o CGSI, no uso do poder disciplinar que lhe é atribuído, aplicar a pena que entender cabível quando tipificada a falta grave.
+
+                </li>
+                <li>
+                    No caso de terceiros contratados ou prestadores de serviço, o CGSI deve analisar a ocorrência e deliberar sobre a efetivação das sanções e punições conforme termos previstos em contrato;
+
+                </li>
+                <li>
+                    Para o caso de violações que impliquem em atividades ilegais, ou que possam incorrer em dano a C&G RPG, o infrator será responsabilizado pelos prejuízos, cabendo aplicação das medidas judiciais pertinentes sem prejuízo aos termos descritos nos itens 6.1, 6.2 e 6.3 desta política.
+                </li>
+            </ol>
+        </li>
+        <li>
+            Casos Omissos
+            <ol>
+                <li>
+                    Os casos omissos serão avaliados pelo Comitê Gestor de Segurança da Informação para posterior deliberação.
+
+                </li>
+                <li>
+                    As diretrizes estabelecidas nesta política e nas demais normas e procedimentos de segurança, não se esgotam em razão da contínua evolução tecnológica e constante surgimento de novas ameaças. Desta forma, não se constitui rol enumerativo, sendo obrigação do usuário da informação da C&G RPG adotar, sempre que possível, outras medidas de segurança além das aqui previstas, com o objetivo de garantir proteção as informações da C&G RPG.
+                </li>
+            </ol>
+        </li>
+        <li>
+            Glossário
+            <ol>
+                <li>
+                    Ameaça: Causa potencial de um incidente, que pode vir a prejudicar a C&G RPG;
+
+                </li>
+                <li>
+                    Ativo: Tudo aquilo que possui valor para a C&G RPG;
+
+                </li>
+                <li>
+                    Ativo de informação: Patrimônio intangível da C&G RPG, constituído por suas informações de qualquer natureza, incluindo de caráter estratégico, técnico, administrativo, financeiro, mercadológico, de recursos humanos, legal natureza, bem como quaisquer informações criadas ou adquiridas por meio de parceria, aquisição, licenciamento, compra ou confiadas a C&G RPG por parceiros, usuários, empregados e terceiros, em formato escrito, verbal, físico ou digitalizado, armazenada, trafegada ou transitando pela infraestrutura computacional da C&G RPG ou por infraestrutura externa contratada pela organização, além dos documentos em suporte físico, ou mídia eletrônica transitados dentro e fora de sua estrutura física.
+
+                </li>
+                <li>
+                    COMITÊ GESTOR DE SEGURANÇA DA INFORMAÇÃO – CGSI: Grupo de trabalho multidisciplinar permanente, efetivado pela diretoria da C&G RPG, que tem por finalidade tratar questões ligadas à Segurança da Informação.
+
+                </li>
+                <li>
+                    Confidencialidade: Propriedade dos ativos da informação da C&G RPG, de não serem disponibilizados ou divulgados para indivíduos, processos ou entidades não autorizadas.
+
+                </li>
+                <li>
+                    Controle: Medida de segurança adotada pela C&G RPG para o tratamento de um risco específico.
+
+                </li>
+                <li>
+                    Disponibilidade: Propriedade dos ativos da informação da C&G RPG, de serem acessíveis e utilizáveis sob demanda, por partes autorizadas.
+
+                </li>
+                <li>
+                    Gestor da Informação: Usuário da informação que ocupe cargo especifico, ao qual foi atribuída responsabilidade sob um ou mais ativos de informação criados, adquiridos, manipulados ou colocados sob a responsabilidade de sua área de atuação.
+
+                </li>
+                <li>
+                    Incidente de segurança da informação: Um evento ou conjunto de eventos indesejados de segurança da informação que tem possibilidade significativa de afetar as operações ou ameaçar as informações da C&G RPG.
+
+                </li>
+                <li>
+                    Integridade: Propriedade dos ativos da informação da C&G RPG, de serem exatos e completos.
+
+                </li>
+                <li>
+                    Risco de segurança da informação: Efeito da incerteza sobre os objetivos de segurança da informação da C&G RPG.
+
+                </li>
+                <li>
+                    Segurança da informação: A preservação das propriedades de confidencialidade, integridade e disponibilidade das informações da C&G RPG.
+
+                </li>
+                <li>
+                    Usuário da informação: Empregados com vínculo empregatício de qualquer área da C&G RPG ou terceiros alocados na prestação de serviços a C&G RPG, indiferente do regime jurídico a que estejam submetidos, assim como outros indivíduos ou organizações devidamente autorizados a utilizar manipular qualquer ativo de informação da C&G RPG para o desempenho de suas atividades profissionais.
+
+                </li>
+                <li>
+                    Vulnerabilidade: Causa potencial de um incidente de segurança da informação, que pode vir a prejudicar as operações ou ameaçar as informações da C&G RPG.
+                </li>
+            </ol>
+        </li>
+        <li>
+            Revisões
+            <ol>
+                <li>
+                    Esta política é revisada com periodicidade anual ou conforme o entendimento do Comitê Gestor de Segurança da Informação.
+                </li>
+            </ol>
+        </li>
+        <li>
+            Gestão da Política
+            <ol>
+                <li>
+                    A Política Geral de Segurança da Informação é aprovada pelo Comitê Gestor de Segurança da Informação, em conjunto com a Diretoria da C&G RPG.
+
+                </li>
+                <li>
+
+                    A presente política foi aprovada no dia 06/12/2023
+                </li>
+            </ol>
+        </li>
+
+    </ol>
+
+
     <h3>ACESSO REMOTO</h3>
     <ol>
         <li>Introdução
@@ -267,13 +611,13 @@
 
                             <ol>
                                 <li>
-                                    INFORMAÇÃO PÚBLICA: Informação oficialmente liberada pela C&G RPG para o público geral. A divulgação deste tipo de informação não causa problemas a C&G RPG ou a seus clientes, podendo ser compartilhada livremente com o público geral, desde que seja mantida sua integridade.
+                                    INFORMAÇÃO PÚBLICA: Informação oficialmente liberada pela C&G RPG para o público geral. A divulgação deste tipo de informação não causa problemas a C&G RPG ou a seus usuários, podendo ser compartilhada livremente com o público geral, desde que seja mantida sua integridade.
                                 </li>
                                 <li>
                                     INFORMAÇÃO DE USO INTERNO: Informação liberada exclusivamente para usuários e departamentos específicos da C&G RPG, não podendo ser compartilhada com o público em geral. Estas informações só podem ser compartilhadas mediante autorização expressa.
                                 </li>
                                 <li>
-                                    INFORMAÇÃO CONFIDENCIAL: Informação de caráter sigiloso, podendo ser comunicada exclusivamente a usuários especificamente autorizados e que necessitem conhecê-las para o desempenho de suas tarefas profissionais na C&G RPG. A divulgação ou alteração não autorizada desse tipo de informação pode causar graves danos e prejuízos para a C&G RPG e/ou seus clientes, portanto seu compartilhamento deve ser restrito e feito de maneira controlada.
+                                    INFORMAÇÃO CONFIDENCIAL: Informação de caráter sigiloso, podendo ser comunicada exclusivamente a usuários especificamente autorizados e que necessitem conhecê-las para o desempenho de suas tarefas profissionais na C&G RPG. A divulgação ou alteração não autorizada desse tipo de informação pode causar graves danos e prejuízos para a C&G RPG e/ou seus usuários, portanto seu compartilhamento deve ser restrito e feito de maneira controlada.
                                 </li>
                             </ol>
                         </li>
@@ -670,7 +1014,7 @@
 
             <ol>
                 <li>
-                    Estabelecer diretrizes para a proteção dos ativos/serviços de informação SOLUS METAL DO BRASIL contra ameaças e códigos maliciosos de qualquer natureza.
+                    Estabelecer diretrizes para a proteção dos ativos/serviços de informação C&G RPG contra ameaças e códigos maliciosos de qualquer natureza.
                 </li>
             </ol>
         </li>
@@ -689,15 +1033,15 @@
                     Ferramenta de proteção contra códigos maliciosos
                     <ol>
                         <li>
-                            4.1.1. A SOLUS disponibiliza ferramentas para proteção dos seus ativos/serviços de informação e recursos computacionais, incluindo estações de usuários, dispositivos móveis e servidores corporativos, contra ameaças e códigos maliciosos tais como vírus, cavalos de Tróia, vermes, ferramentas de captura de tela e dados digitados, softwares de propaganda e similares;
+                            4.1.1. A C&G RPG disponibiliza ferramentas para proteção dos seus ativos/serviços de informação e recursos computacionais, incluindo estações de usuários, dispositivos móveis e servidores corporativos, contra ameaças e códigos maliciosos tais como vírus, cavalos de Tróia, vermes, ferramentas de captura de tela e dados digitados, softwares de propaganda e similares;
 
                         </li>
                         <li>
-                            4.1.2. Apenas a ferramenta disponibilizada pela SOLUS deve ser utilizada na proteção contra códigos maliciosos;
+                            4.1.2. Apenas a ferramenta disponibilizada pela C&G RPG deve ser utilizada na proteção contra códigos maliciosos;
 
                         </li>
                         <li>
-                            4.1.3. A ferramenta de proteção contra códigos maliciosos da SOLUS adota as seguintes regras de uso:
+                            4.1.3. A ferramenta de proteção contra códigos maliciosos da C&G RPG adota as seguintes regras de uso:
                             <ol>
                                 <li>
                                     4.1.3.1. Atualização em tempo real do arquivo de assinaturas de códigos maliciosos e varredura diária em estações de usuários e servidores corporativos;
@@ -719,7 +1063,7 @@
                                     4.1.3.5. Sites, serviços e arquivos baixados da internet detectados como possíveis ameaças serão automaticamente bloqueados em estações de usuários, dispositivos móveis e servidores corporativos;
                                 </li>
                             </ol>
-                            4.1.4. Caso uma estação de usuário ou dispositivo móvel esteja infectado ou com suspeita de infecção de código malicioso, a mesma deverá ser imediatamente isolada da rede corporativa da SOLUS e de qualquer comunicação com a internet;
+                            4.1.4. Caso uma estação de usuário ou dispositivo móvel esteja infectado ou com suspeita de infecção de código malicioso, a mesma deverá ser imediatamente isolada da rede corporativa da C&G RPG e de qualquer comunicação com a internet;
 
                         </li>
                         <li>
@@ -732,11 +1076,11 @@
                     Prevenção dos usuários contra códigos maliciosos
                     <ol>
                         <li>
-                            Mesmo com a existência de ferramentas para proteção contra códigos maliciosos, os usuários da SOLUS METAL DO BRASIL devem adotar um comportamento seguro, reduzindo a probabilidade de infecção ou propagação de códigos maliciosos;
+                            Mesmo com a existência de ferramentas para proteção contra códigos maliciosos, os usuários da C&G RPG devem adotar um comportamento seguro, reduzindo a probabilidade de infecção ou propagação de códigos maliciosos;
 
                         </li>
                         <li>
-                            Os usuários da SOLUS devem seguir as seguintes regras para proteção contra códigos maliciosos:
+                            Os usuários da C&G RPG devem seguir as seguintes regras para proteção contra códigos maliciosos:
                             <ol>
                                 <li>
                                     Não tentar efetuar o tratamento e correção de códigos maliciosos por iniciativa própria;
@@ -751,7 +1095,7 @@
 
                                 </li>
                                 <li>
-                                    Efetuar uma varredura com a ferramenta de proteção contra códigos maliciosos fornecida pela SOLUS antes de utilizar arquivos armazenados em mídias removíveis, baixados da internet ou recebidos nos serviços de e-mail ou comunicadores instantâneos;
+                                    Efetuar uma varredura com a ferramenta de proteção contra códigos maliciosos fornecida pela C&G RPG antes de utilizar arquivos armazenados em mídias removíveis, baixados da internet ou recebidos nos serviços de e-mail ou comunicadores instantâneos;
 
                                 </li>
                                 <li>
@@ -786,11 +1130,11 @@
                                     É responsabilidade da gerencia de segurança da informação:
                                     <ol>
                                         <li>
-                                            Garantir que novas modalidades de códigos maliciosos são adequadamente investigados, tratados e protegidos pela ferramenta corporativa adotada pela SOLUS;
+                                            Garantir que novas modalidades de códigos maliciosos são adequadamente investigados, tratados e protegidos pela ferramenta corporativa adotada pela C&G RPG;
 
                                         </li>
                                         <li>
-                                            Garantir a existência de iniciativas para divulgação sobre informações de ameaças, códigos maliciosos e medidas de proteção para os usuários da SOLUS.
+                                            Garantir a existência de iniciativas para divulgação sobre informações de ameaças, códigos maliciosos e medidas de proteção para os usuários da C&G RPG.
                                         </li>
                                     </ol>
                                 </li>
@@ -817,7 +1161,7 @@
         <li> Gestão da Norma
             <ol>
                 <li>
-                     A norma N-SI-006 é aprovada pelo Comitê Gestor de Segurança da Informação, em conjunto com a Diretoria da SOLUS METAL DO BRASIL.
+                    A norma N-SI-006 é aprovada pelo Comitê Gestor de Segurança da Informação, em conjunto com a Diretoria da C&G RPG.
 
                 </li>
                 <li>
